@@ -1,4 +1,7 @@
-## Hi there 👋
+## About Ruby
+
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0009-0007-0531-8420&color=green&style=flat-square&logo=orcid)](https://orcid.org/0009-0007-0531-8420)
+[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=aFCrgpEAAAAJ&hl=en)
 
 I'm a PhD student in the [Brady lab](https://umaine.edu/bradylab/) at the University of Maine School of Marine Sciences.
 
